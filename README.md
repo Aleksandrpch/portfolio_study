@@ -3,8 +3,9 @@
 
 ### 🐳 Docker
 Основы контейнеризации: работа с образами, контейнерами, проброс портов, монтирование директорий, переменные окружения, написание Dockerfile.
-[📄 Открыть отчёт (Docker)](./Практика_Docker.pdf)
-[📄 Открыть отчёт (Docker)](./Lab: Building Agentic Apps with Docker.pdf) # Скоро
+[📄 Открыть отчёт (Docker_основы)](./Практика_Docker.pdf)
+
+[📄 Открыть отчёт (Docker_Agentic Apps)](./Lab: Building Agentic Apps with Docker.pdf) # Скоро
 
 ### 🦊 Git
 [📄 Открыть отчёт (git)](./Практика_git.pdf)
